@@ -1,0 +1,18 @@
+{
+    "Empresa":["Logic Studio,SA"],
+    "InicioTitulo" : ["Intelligent response system!"],
+    "greeting": ["Welcome to the localization sample bot.", "Hey there. I'm the localization sample bot.", "Greetings... I'm the localization sample bot."],
+    "About":["I am an automatic response and service management system and more! 😆"],
+    "instructions": "This demo will first ask you to select a preferred language and then walk through using all of the built-in prompts in that language.",
+    "locale_prompt": "What's your preferred language?",
+    "locale_updated": "Your preferred language is now english.",
+    "demo_finished": ["That's the end of the demo.", "Thank you. That's the end."],
+    "Luis_1":["Greetings option"],
+    "Luis_2":["Goodbye option"],
+    "Saludo":["Hello","Hi"],
+    "Citas_uno":["¿How can I help you?"],
+    "Citas_uno_opciones":["Cita|Citas"],
+    "Citas_Mesj_1":["Message of Appointment"],
+    "Citas_Mesj_2":["Message of Appointment!"],
+    "Default":["I do not know what to say! 😅"]
+}
